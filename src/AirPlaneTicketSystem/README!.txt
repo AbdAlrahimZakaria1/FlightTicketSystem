@@ -1,0 +1,1 @@
+This is the Kodluyoruz Java bootcamp 3rd week's homework.
